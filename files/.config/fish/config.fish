@@ -17,9 +17,6 @@ if status --is-interactive
     alias s='sudo '
 
     set -gx PAGER less
-    set -gx LC_ALL en_GB.UTF-8
-    set -gx LANG en_GB.UTF-8
-    set -gx LANGUAGE en_GB.UTF-8
     set -gx MOSH_SERVER_NETWORK_TMOUT 180
     set -gx MOSH_SERVER_SIGNAL_TMOUT 180
 

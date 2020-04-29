@@ -18,9 +18,6 @@ alias s='sudo '
 export PS1='\u@\h \w \$ '
 export PS2='>'
 export PAGER=less
-export LC_ALL=en_GB.UTF-8
-export LANG=en_GB.UTF-8
-export LANGUAGE=en_GB.UTF-8
 export MOSH_SERVER_NETWORK_TMOUT=180
 export MOSH_SERVER_SIGNAL_TMOUT=180
 
