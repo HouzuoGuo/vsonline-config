@@ -1,0 +1,12 @@
+[user]
+	name = HouzuoGuo
+	email = guohouzuo@gmail.com
+[color]
+	ui = auto
+[push]
+	default = simple
+[credential]
+	helper = store
+[rerere]
+  autoupdate = true
+  enabled = true
